@@ -36,8 +36,13 @@ Built from scratch using raw Java, OpenWeatherMap API, and good old-fashioned lo
 ## SAMPLE OUTPUT:
 
 Enter the name of a city: london
+
 Current Weather in: london:
+
 Temperature: 18.13Cº
+
 Description: overcast clouds
+
 Best to get some sport in you!//text appears in yellow//
+
 Press 'n' to check the weather in another city or any other key to exit: 
